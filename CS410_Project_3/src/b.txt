@@ -1,0 +1,15 @@
+1
+0
+2
+0 X
+B
+4
+q1 q2 qR qA
+q1
+qA
+qR
+q1 0 B R q2
+q2 0 B R qR
+qR 0 B R q2
+q2 B B R qA
+000000

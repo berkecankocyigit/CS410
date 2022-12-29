@@ -1,0 +1,15 @@
+2
+0 1
+2
+0 1
+b
+4
+q0 q1 qA qR
+q0
+qA
+qR
+q0 0 1 R q1
+q1 0 1 R q0
+q0 b b R qA
+q1 b b R qR
+0000
